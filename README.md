@@ -1,2 +1,2 @@
 # CarsonPig.github.io
-This is mine first blog
+This is my first blog
